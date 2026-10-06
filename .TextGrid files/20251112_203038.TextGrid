@@ -1,0 +1,82 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 10 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "ANT" 
+        xmin = 0 
+        xmax = 10 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.3525035080400485 
+            text = "" 
+        intervals [2]:
+            xmin = 1.3525035080400485 
+            xmax = 1.5370311551881066 
+            text = "ANT" 
+        intervals [3]:
+            xmin = 1.5370311551881066 
+            xmax = 2.964044959799757 
+            text = "" 
+        intervals [4]:
+            xmin = 2.964044959799757 
+            xmax = 3.1239689206614076 
+            text = "ANT" 
+        intervals [5]:
+            xmin = 3.1239689206614076 
+            xmax = 10 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "ANI" 
+        xmin = 0 
+        xmax = 10 
+        intervals: size = 8 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.1433721746055825 
+            text = "" 
+        intervals [2]:
+            xmin = 1.1433721746055825 
+            xmax = 1.2663906060376213 
+            text = "ANI" 
+        intervals [3]:
+            xmin = 1.2663906060376213 
+            xmax = 3.7759666072512132 
+            text = "" 
+        intervals [4]:
+            xmin = 3.7759666072512132 
+            xmax = 5.350602529581311 
+            text = "ANI" 
+        intervals [5]:
+            xmin = 5.350602529581311 
+            xmax = 5.584337549302184 
+            text = "" 
+        intervals [6]:
+            xmin = 5.584337549302184 
+            xmax = 8.38915778595267 
+            text = "ANI" 
+        intervals [7]:
+            xmin = 8.38915778595267 
+            xmax = 9.262588649120145 
+            text = "" 
+        intervals [8]:
+            xmin = 9.262588649120145 
+            xmax = 10 
+            text = "ANI" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "HUM" 
+        xmin = 0 
+        xmax = 10 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 10 
+            text = "" 

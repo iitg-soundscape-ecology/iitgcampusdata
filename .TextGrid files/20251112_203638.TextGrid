@@ -1,0 +1,78 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 10 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "ANT" 
+        xmin = 0 
+        xmax = 10 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.6486832767125837 
+            text = " " 
+        intervals [2]:
+            xmin = 0.6486832767125837 
+            xmax = 0.8600221635331347 
+            text = "ANT" 
+        intervals [3]:
+            xmin = 0.8600221635331347 
+            xmax = 1.2147695806962024 
+            text = "" 
+        intervals [4]:
+            xmin = 1.2147695806962024 
+            xmax = 1.5770648152457183 
+            text = "ANT" 
+        intervals [5]:
+            xmin = 1.5770648152457183 
+            xmax = 2.226177110480268 
+            text = "" 
+        intervals [6]:
+            xmin = 2.226177110480268 
+            xmax = 2.2865596495718536 
+            text = "ANT" 
+        intervals [7]:
+            xmin = 2.2865596495718536 
+            xmax = 3.1243673794676092 
+            text = "" 
+        intervals [8]:
+            xmin = 3.1243673794676092 
+            xmax = 3.1922977359456435 
+            text = " ANT" 
+        intervals [9]:
+            xmin = 3.1922977359456435 
+            xmax = 10 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "ANI" 
+        xmin = 0 
+        xmax = 10 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 5.592503664836187 
+            text = "" 
+        intervals [2]:
+            xmin = 5.592503664836187 
+            xmax = 9.207908192944899 
+            text = "ANI" 
+        intervals [3]:
+            xmin = 9.207908192944899 
+            xmax = 10 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "HUM" 
+        xmin = 0 
+        xmax = 10 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 10 
+            text = "" 

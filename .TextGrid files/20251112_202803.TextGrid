@@ -1,0 +1,110 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 10 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "ANT" 
+        xmin = 0 
+        xmax = 10 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 6.728408961620146 
+            text = "" 
+        intervals [2]:
+            xmin = 6.728408961620146 
+            xmax = 6.8022200204793695 
+            text = "ANT" 
+        intervals [3]:
+            xmin = 6.8022200204793695 
+            xmax = 10 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "ANI" 
+        xmin = 0 
+        xmax = 10 
+        intervals: size = 17 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.774316880309466 
+            text = "" 
+        intervals [2]:
+            xmin = 0.774316880309466 
+            xmax = 1.1802777040351942 
+            text = "ANI" 
+        intervals [3]:
+            xmin = 1.1802777040351942 
+            xmax = 1.9183882926274272 
+            text = "" 
+        intervals [4]:
+            xmin = 1.9183882926274272 
+            xmax = 2.3243491163531553 
+            text = "ANI" 
+        intervals [5]:
+            xmin = 2.3243491163531553 
+            xmax = 3.0378560186589803 
+            text = "" 
+        intervals [6]:
+            xmin = 3.0378560186589803 
+            xmax = 3.493024214957524 
+            text = "ANI" 
+        intervals [7]:
+            xmin = 3.493024214957524 
+            xmax = 4.181927430976941 
+            text = "" 
+        intervals [8]:
+            xmin = 4.181927430976941 
+            xmax = 4.612491940989077 
+            text = "ANI" 
+        intervals [9]:
+            xmin = 4.612491940989077 
+            xmax = 5.276791470722087 
+            text = "" 
+        intervals [10]:
+            xmin = 5.276791470722087 
+            xmax = 5.682752294447815 
+            text = "ANI" 
+        intervals [11]:
+            xmin = 5.682752294447815 
+            xmax = 6.3839573536104375 
+            text = "" 
+        intervals [12]:
+            xmin = 6.3839573536104375 
+            xmax = 6.8022200204793695 
+            text = "ANI" 
+        intervals [13]:
+            xmin = 6.8022200204793695 
+            xmax = 7.528028765928398 
+            text = "" 
+        intervals [14]:
+            xmin = 7.528028765928398 
+            xmax = 7.958593275940534 
+            text = "ANI" 
+        intervals [15]:
+            xmin = 7.958593275940534 
+            xmax = 8.782816766535195 
+            text = "" 
+        intervals [16]:
+            xmin = 8.782816766535195 
+            xmax = 9.176475747117719 
+            text = "ANI" 
+        intervals [17]:
+            xmin = 9.176475747117719 
+            xmax = 10 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "HUM" 
+        xmin = 0 
+        xmax = 10 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 10 
+            text = "" 

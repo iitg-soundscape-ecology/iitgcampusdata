@@ -1,0 +1,82 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 10 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "ANT" 
+        xmin = 0 
+        xmax = 10 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.356054213440534 
+            text = "" 
+        intervals [2]:
+            xmin = 0.356054213440534 
+            xmax = 0.5897892331614077 
+            text = "ANT" 
+        intervals [3]:
+            xmin = 0.5897892331614077 
+            xmax = 1.2048813903216018 
+            text = "" 
+        intervals [4]:
+            xmin = 1.2048813903216018 
+            xmax = 1.3771071943264563 
+            text = "ANT" 
+        intervals [5]:
+            xmin = 1.3771071943264563 
+            xmax = 10 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "ANI" 
+        xmin = 0 
+        xmax = 10 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.8814827631978155 
+            text = "" 
+        intervals [2]:
+            xmin = 1.8814827631978155 
+            xmax = 2.9517431166565533 
+            text = "ANI" 
+        intervals [3]:
+            xmin = 2.9517431166565533 
+            xmax = 4.391058764411407 
+            text = "" 
+        intervals [4]:
+            xmin = 4.391058764411407 
+            xmax = 5.461319117870145 
+            text = "ANI" 
+        intervals [5]:
+            xmin = 5.461319117870145 
+            xmax = 6.1502223338895625 
+            text = "" 
+        intervals [6]:
+            xmin = 6.1502223338895625 
+            xmax = 10 
+            text = "ANI" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "HUM" 
+        xmin = 0 
+        xmax = 10 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.5791371169599513 
+            text = "" 
+        intervals [2]:
+            xmin = 3.5791371169599513 
+            xmax = 5.658148608161407 
+            text = "HUM" 
+        intervals [3]:
+            xmin = 5.658148608161407 
+            xmax = 10 
+            text = "" 

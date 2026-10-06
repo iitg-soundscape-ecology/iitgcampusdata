@@ -1,0 +1,142 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 10 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "ANT" 
+        xmin = 0 
+        xmax = 10 
+        intervals: size = 25 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.087063391231796 
+            text = "" 
+        intervals [2]:
+            xmin = 3.087063391231796 
+            xmax = 3.5422315875303396 
+            text = "ANT" 
+        intervals [3]:
+            xmin = 3.5422315875303396 
+            xmax = 3.6775518621055823 
+            text = "" 
+        intervals [4]:
+            xmin = 3.6775518621055823 
+            xmax = 3.9727960975424756 
+            text = "ANT" 
+        intervals [5]:
+            xmin = 3.9727960975424756 
+            xmax = 4.108116372117718 
+            text = "" 
+        intervals [6]:
+            xmin = 4.108116372117718 
+            xmax = 4.415662450697815 
+            text = "ANT" 
+        intervals [7]:
+            xmin = 4.415662450697815 
+            xmax = 4.52637903898665 
+            text = "" 
+        intervals [8]:
+            xmin = 4.52637903898665 
+            xmax = 4.809321431280339 
+            text = "ANT" 
+        intervals [9]:
+            xmin = 4.809321431280339 
+            xmax = 4.932339862712379 
+            text = "" 
+        intervals [10]:
+            xmin = 4.932339862712379 
+            xmax = 5.202980411862864 
+            text = "ANT" 
+        intervals [11]:
+            xmin = 5.202980411862864 
+            xmax = 5.325998843294903 
+            text = "" 
+        intervals [12]:
+            xmin = 5.325998843294903 
+            xmax = 5.633544921875 
+            text = "ANT" 
+        intervals [13]:
+            xmin = 5.633544921875 
+            xmax = 5.7196578238774265 
+            text = "" 
+        intervals [14]:
+            xmin = 5.7196578238774265 
+            xmax = 5.953392843598301 
+            text = "ANT" 
+        intervals [15]:
+            xmin = 5.953392843598301 
+            xmax = 6.101014961316747 
+            text = "" 
+        intervals [16]:
+            xmin = 6.101014961316747 
+            xmax = 6.457768412469661 
+            text = "ANT" 
+        intervals [17]:
+            xmin = 6.457768412469661 
+            xmax = 6.814521863622573 
+            text = "ANT" 
+        intervals [18]:
+            xmin = 6.814521863622573 
+            xmax = 6.949842138197816 
+            text = "" 
+        intervals [19]:
+            xmin = 6.949842138197816 
+            xmax = 7.2204826873483015 
+            text = "ANT" 
+        intervals [20]:
+            xmin = 7.2204826873483015 
+            xmax = 7.355802961923544 
+            text = "" 
+        intervals [21]:
+            xmin = 7.355802961923544 
+            xmax = 7.651047197360437 
+            text = "ANT" 
+        intervals [22]:
+            xmin = 7.651047197360437 
+            xmax = 7.78636747193568 
+            text = "" 
+        intervals [23]:
+            xmin = 7.78636747193568 
+            xmax = 9.348701551122574 
+            text = "ANT" 
+        intervals [24]:
+            xmin = 9.348701551122574 
+            xmax = 9.484021825697816 
+            text = "ANT" 
+        intervals [25]:
+            xmin = 9.484021825697816 
+            xmax = 10 
+            text = "ANT" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "ANI" 
+        xmin = 0 
+        xmax = 10 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 10 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "HUM" 
+        xmin = 0 
+        xmax = 10 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.3806578997269418 
+            text = "" 
+        intervals [2]:
+            xmin = 0.3806578997269418 
+            xmax = 0.8112224097390777 
+            text = "HUM" 
+        intervals [3]:
+            xmin = 0.8112224097390777 
+            xmax = 10 
+            text = "" 
