@@ -1,1 +1,1 @@
-
+Annotated audio data corresponding to the `.wav` files are provided in the `.TextGrid` format. The `.TextGrid` files contain the annotations of the respective audio recordings and can be used for learning, analysis, and audio annotation related experiments.
